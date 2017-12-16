@@ -151,4 +151,4 @@ async def lol(ctx):
     with open("lol/FGGGHHDZ.gif", "rb") as f: 
     	await client.delete_message(ctx.message)
         await client.upload(f) # This is the part that uploads the file
-client.run("Mzc5ODc0MjIyMTE1MjU4Mzcw.DRcFhQ.K6BRbu7ztwRd9T4uqLDOOu7tbps")
+client.run("s")
